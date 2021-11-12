@@ -1,0 +1,33 @@
+{
+    "name": "react-instagram-post",
+    "version": "1.0.0",
+    "description": "simple post with your embed string document.body append script createElement from document",
+    "main": "src/index.js",
+    "keywords": [
+        "instagram",
+        "embed",
+        "social media",
+        "facebook",
+        "script",
+        "createRef",
+        "react"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nickcarducci/react-instagram-post"
+    },
+    "files": [
+        "src",
+        "index.js"
+    ],
+    "sideEffects": false,
+    "license": "UNLICENSED",
+    "author": "Nick Carducci nick@carducci.sh",
+    "bugs": {
+        "url": "https://github.com/nickcarducci/react-instagram-post"
+    },
+    "peerDependencies": {
+        "prop-types": "15.7.2",
+        "exenv": "1.2.2"
+    }
+}
