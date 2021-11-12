@@ -21,7 +21,7 @@ instagrampost1.js - manually copy embed code (without end script!!!)
 
 app.js
 
-    import InstagramEmbed from "react-instagram-embed"//"./InstagramEmbed";
+    import InstagramEmbed from "react-instagram-post"//"./InstagramEmbed";
     import { iGpostScript1 } from "./instagrampost1";
 
     <InstagramEmbed script={iGpostScript1} onLoad={()=>{}}/>
